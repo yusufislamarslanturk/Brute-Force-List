@@ -72,13 +72,7 @@ namespace ConsoleApp6
             dosya.Close();
             Console.WriteLine("\n Sifreleme ilemi bitti lutfen txt dosyasını kontrol ediniz.");
             Console.ReadLine();
-        }
-        
-        
-           
-            
-            
-            
+        }   
            
     }
 }
